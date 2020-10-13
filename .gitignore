@@ -9,3 +9,6 @@
 
 # emacs
 *~
+
+# env
+.env
